@@ -1,0 +1,22 @@
+﻿?text=Name__________________________________              Date____________
+
+?grid=ID
+	sections_count=5
+
+#What are some of the functions of Aspose.OMR? Mark all that apply.
+	() OCR () Capture human-marked data
+	() Generate data collection forms () Enhance images
+#What is your favorite color?
+	(r) Red		(g) Green
+	(b) Blue	(o) Other
+#Rate this question (5 - good, 1 - bad)
+	(5) (4) (3) (2) (1)
+#Are you currently in a good mood?
+	(Yes) Yes (No) No
+
+?text=				Booklet #1 Answer Sheet 
+?answer_sheet=Booklet1
+	elements_count=15
+	columns_count=3
+
+?text=Sign__________________________________
